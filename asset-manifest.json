@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dropdown-Menu-React/static/css/main.f6726b0e.chunk.css",
+    "main.js": "/Dropdown-Menu-React/static/js/main.070fbfd2.chunk.js",
+    "main.js.map": "/Dropdown-Menu-React/static/js/main.070fbfd2.chunk.js.map",
+    "runtime-main.js": "/Dropdown-Menu-React/static/js/runtime-main.d7214603.js",
+    "runtime-main.js.map": "/Dropdown-Menu-React/static/js/runtime-main.d7214603.js.map",
+    "static/js/2.9085d6b3.chunk.js": "/Dropdown-Menu-React/static/js/2.9085d6b3.chunk.js",
+    "static/js/2.9085d6b3.chunk.js.map": "/Dropdown-Menu-React/static/js/2.9085d6b3.chunk.js.map",
+    "index.html": "/Dropdown-Menu-React/index.html",
+    "precache-manifest.4fcb05ac5db7a6925b82f5acac9bda91.js": "/Dropdown-Menu-React/precache-manifest.4fcb05ac5db7a6925b82f5acac9bda91.js",
+    "service-worker.js": "/Dropdown-Menu-React/service-worker.js",
+    "static/css/main.f6726b0e.chunk.css.map": "/Dropdown-Menu-React/static/css/main.f6726b0e.chunk.css.map",
+    "static/js/2.9085d6b3.chunk.js.LICENSE.txt": "/Dropdown-Menu-React/static/js/2.9085d6b3.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d7214603.js",
+    "static/js/2.9085d6b3.chunk.js",
+    "static/css/main.f6726b0e.chunk.css",
+    "static/js/main.070fbfd2.chunk.js"
+  ]
+}
